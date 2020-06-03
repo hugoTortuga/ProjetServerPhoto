@@ -1,0 +1,140 @@
+4 mai 2020 09:06:20 Lancement d'une connexion sur le port 3001
+4 mai 2020 09:06:20 Envoie au serveur : Client est là
+4 mai 2020 09:07:14 Lancement d'une connexion sur le port 3001
+4 mai 2020 09:07:14 Envoie au serveur : Client est là
+4 mai 2020 09:09:51 Lancement d'une connexion sur le port 3001
+4 mai 2020 09:09:51 Envoie au serveur : Client est là
+4 mai 2020 09:09:52 Envoie au serveur : photosPublic
+4 mai 2020 09:18:41 Lancement d'une connexion sur le port 3001
+4 mai 2020 09:18:41 Envoie au serveur : Client est là
+4 mai 2020 09:18:43 Envoie au serveur : photosPublic
+4 mai 2020 09:35:43 Lancement d'une connexion sur le port 3001
+4 mai 2020 09:35:43 Envoie au serveur : Client est là
+4 mai 2020 09:35:45 Envoie au serveur : photosPublic
+4 mai 2020 09:35:59 Envoie au serveur : photosPublic
+4 mai 2020 09:36:02 Envoie au serveur : photosPublic
+4 mai 2020 09:36:03 Envoie au serveur : photosPublic
+4 mai 2020 09:36:13 Envoie au serveur : photosPublic
+4 mai 2020 13:08:38 java.net.ConnectException: Connection refused: connect
+4 mai 2020 13:10:14 java.net.ConnectException: Connection refused: connect
+4 mai 2020 13:10:41 java.net.ConnectException: Connection refused: connect
+4 mai 2020 13:11:39 java.net.ConnectException: Connection refused: connect
+4 mai 2020 13:11:53 java.net.ConnectException: Connection refused: connect
+4 mai 2020 13:12:06 java.net.ConnectException: Connection refused: connect
+4 mai 2020 13:12:17 java.net.ConnectException: Connection refused: connect
+4 mai 2020 13:13:54 java.net.ConnectException: Connection refused: connect
+5 mai 2020 10:14:52 java.lang.ClassCastException: java.lang.Integer cannot be cast to java.util.ArrayList
+5 mai 2020 10:46:05 java.lang.ClassCastException: java.lang.Integer cannot be cast to java.util.ArrayList
+5 mai 2020 10:47:51 java.lang.ClassCastException: java.lang.Integer cannot be cast to Model.Photo
+5 mai 2020 11:09:24 java.io.NotSerializableException: javafx.scene.image.Image
+5 mai 2020 11:29:26 java.lang.IllegalArgumentException: URL must not be empty
+5 mai 2020 11:42:01 java.io.NotSerializableException: javafx.scene.image.Image
+5 mai 2020 15:26:49 java.net.ConnectException: Connection refused: connect
+5 mai 2020 15:47:50 java.net.ConnectException: Connection refused: connect
+5 mai 2020 15:48:27 java.net.ConnectException: Connection refused: connect
+5 mai 2020 15:49:02 java.net.ConnectException: Connection refused: connect
+5 mai 2020 15:50:11 java.net.ConnectException: Connection refused: connect
+5 mai 2020 15:50:31 java.net.ConnectException: Connection refused: connect
+5 mai 2020 15:51:01 java.net.ConnectException: Connection refused: connect
+5 mai 2020 15:53:39 Lancement d'une connexion sur le port 3001
+5 mai 2020 15:54:35 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:17:21 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:24:53 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:26:12 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:28:12 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:28:23 java.net.SocketException: Connection reset
+5 mai 2020 16:29:30 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:34:20 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:39:48 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:44:49 Lancement d'une connexion sur le port 3001
+5 mai 2020 16:50:26 Lancement d'une connexion sur le port 3001
+6 mai 2020 08:51:44 java.net.ConnectException: Connection refused: connect
+6 mai 2020 08:53:13 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:03:03 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:42:28 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:43:04 java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+6 mai 2020 09:44:27 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:44:53 com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 15 905 milliseconds ago.  The last packet sent successfully to the server was 15 771 milliseconds ago.
+6 mai 2020 09:45:14 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:45:39 com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 16 066 milliseconds ago.  The last packet sent successfully to the server was 15 983 milliseconds ago.
+6 mai 2020 09:47:13 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:47:17 java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+6 mai 2020 09:47:17 java.lang.NullPointerException
+6 mai 2020 09:47:37 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:47:42 java.sql.SQLException: Access denied for user ''@'localhost' (using password: NO)
+6 mai 2020 09:47:42 java.lang.NullPointerException
+6 mai 2020 09:53:08 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:56:42 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:57:06 Lancement d'une connexion sur le port 3002
+6 mai 2020 09:58:11 Lancement d'une connexion sur le port 3002
+6 mai 2020 10:11:13 Lancement d'une connexion sur le port 3002
+6 mai 2020 10:11:39 Lancement d'une connexion sur le port 3002
+6 mai 2020 10:11:57 Lancement d'une connexion sur le port 3002
+6 mai 2020 10:12:50 Lancement d'une connexion sur le port 3002
+6 mai 2020 10:15:16 Lancement d'une connexion sur le port 3002
+6 mai 2020 11:31:11 Lancement d'une connexion sur le port 3002
+6 mai 2020 11:35:46 Lancement d'une connexion sur le port 3003
+6 mai 2020 11:40:09 java.net.ConnectException: Connection refused: connect
+6 mai 2020 11:40:59 java.net.ConnectException: Connection refused: connect
+6 mai 2020 11:41:38 java.net.ConnectException: Connection refused: connect
+6 mai 2020 11:42:25 java.net.ConnectException: Connection refused: connect
+6 mai 2020 11:46:03 Lancement d'une connexion sur le port 3003
+6 mai 2020 13:13:48 Lancement d'une connexion sur le port 3003
+6 mai 2020 13:14:48 Lancement d'une connexion sur le port 3003
+7 mai 2020 09:13:51 Lancement d'une connexion sur le port 3003
+7 mai 2020 09:31:13 Lancement d'une connexion sur le port 3003
+7 mai 2020 09:33:40 java.net.SocketException: Connection reset
+7 mai 2020 09:43:03 java.net.ConnectException: Connection refused: connect
+7 mai 2020 09:43:40 Lancement d'une connexion sur le port 3002
+7 mai 2020 09:50:01 java.net.ConnectException: Connection refused: connect
+7 mai 2020 09:50:22 Lancement d'une connexion sur le port 3002
+7 mai 2020 09:51:50 java.net.ConnectException: Connection refused: connect
+7 mai 2020 09:52:08 Lancement d'une connexion sur le port 3002
+7 mai 2020 09:53:42 java.net.ConnectException: Connection refused: connect
+7 mai 2020 09:53:58 java.net.ConnectException: Connection refused: connect
+7 mai 2020 09:54:10 java.net.ConnectException: Connection refused: connect
+7 mai 2020 09:54:17 Lancement d'une connexion sur le port 3002
+7 mai 2020 10:01:00 java.net.ConnectException: Connection refused: connect
+7 mai 2020 10:01:28 Lancement d'une connexion sur le port 3002
+7 mai 2020 10:08:37 Lancement d'une connexion sur le port 3002
+7 mai 2020 10:08:48 java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: javafx.scene.image.Image
+7 mai 2020 10:09:59 java.net.ConnectException: Connection refused: connect
+7 mai 2020 10:10:20 Lancement d'une connexion sur le port 3002
+7 mai 2020 10:19:08 Lancement d'une connexion sur le port 3002
+7 mai 2020 10:21:58 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:01:39 java.net.ConnectException: Connection refused: connect
+7 mai 2020 11:01:48 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:03:26 java.net.ConnectException: Connection refused: connect
+7 mai 2020 11:03:35 java.net.ConnectException: Connection refused: connect
+7 mai 2020 11:03:51 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:07:33 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:13:31 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:14:04 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:14:55 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:16:24 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:17:19 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:19:56 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:22:49 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:25:15 java.net.ConnectException: Connection refused: connect
+7 mai 2020 11:25:28 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:26:41 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:28:15 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:44:30 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:50:08 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:52:59 Lancement d'une connexion sur le port 3002
+7 mai 2020 11:53:52 Lancement d'une connexion sur le port 3002
+7 mai 2020 12:00:02 Lancement d'une connexion sur le port 3002
+7 mai 2020 12:56:10 Lancement d'une connexion sur le port 3002
+7 mai 2020 13:28:50 Lancement d'une connexion sur le port 3002
+7 mai 2020 13:29:50 Lancement d'une connexion sur le port 3002
+7 mai 2020 13:41:01 java.net.ConnectException: Connection refused: connect
+7 mai 2020 13:41:27 java.net.ConnectException: Connection refused: connect
+7 mai 2020 13:42:58 java.net.ConnectException: Connection refused: connect
+7 mai 2020 13:43:33 Lancement d'une connexion sur le port 3002
+7 mai 2020 14:19:51 Lancement d'une connexion sur le port 3002
+7 mai 2020 14:42:50 Lancement d'une connexion sur le port 3002
+7 mai 2020 15:35:35 Lancement d'une connexion sur le port 3002

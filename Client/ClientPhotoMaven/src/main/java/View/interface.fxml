@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="border_pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: rgb(198,214,178);" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.InterfaceController">
+   <top>
+      <TabPane prefHeight="404.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER">
+        <tabs>
+          <Tab text="Connexion">
+            <content>
+              <AnchorPane focusTraversable="true" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: rgb(198,214,178);">
+                     <children>
+                        <TextField fx:id="idField" focusTraversable="false" layoutX="200.0" layoutY="128.0" prefHeight="35.0" prefWidth="200.0" promptText="Email" style="-fx-background-radius: 10px;" AnchorPane.leftAnchor="200.0" AnchorPane.rightAnchor="200.0" AnchorPane.topAnchor="128.0" />
+                        <PasswordField fx:id="passwordField" layoutX="200.0" layoutY="171.0" prefHeight="35.0" prefWidth="200.0" promptText="Mot de passe" style="-fx-background-radius: 10px;" AnchorPane.leftAnchor="200.0" AnchorPane.rightAnchor="200.0" AnchorPane.topAnchor="171.0" />
+                        <Button fx:id="connexionButton" layoutX="201.0" layoutY="223.0" mnemonicParsing="false" onAction="#seConnecter" prefHeight="35.0" prefWidth="199.0" style="-fx-background-color: #5e6b3b; -fx-background-radius: 10px;" text="Se connecter" textFill="WHITE" AnchorPane.leftAnchor="201.0" AnchorPane.rightAnchor="200.0" AnchorPane.topAnchor="223.0">
+                           <font>
+                              <Font name="System Bold" size="18.0" />
+                           </font></Button>
+                        <Label layoutX="206.0" layoutY="61.0" prefHeight="51.0" prefWidth="190.0" text="Connexion" textFill="#5e6b3b">
+                           <font>
+                              <Font name="System Bold" size="35.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab text="Inscription">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: rgb(198,214,178);">
+                     <children>
+                        <TextField fx:id="lastNameField" layoutX="201.0" layoutY="81.0" prefHeight="35.0" prefWidth="200.0" promptText="Nom" style="-fx-background-radius: 10px;" AnchorPane.leftAnchor="201.0" AnchorPane.rightAnchor="199.0" AnchorPane.topAnchor="81.0" />
+                        <TextField fx:id="nameField" layoutX="201.0" layoutY="121.0" prefHeight="35.0" prefWidth="200.0" promptText="Prénom" style="-fx-background-radius: 10px;" AnchorPane.leftAnchor="201.0" AnchorPane.rightAnchor="199.0" AnchorPane.topAnchor="121.0" />
+                        <TextField fx:id="mailField" layoutX="201.0" layoutY="161.0" prefHeight="35.0" prefWidth="200.0" promptText="Adresse mail" style="-fx-background-radius: 10px;" AnchorPane.leftAnchor="201.0" AnchorPane.rightAnchor="199.0" AnchorPane.topAnchor="161.0" />
+                        <DatePicker fx:id="dOBField" layoutX="201.0" layoutY="201.0" prefHeight="35.0" prefWidth="200.0" promptText="Date de naissance" style="-fx-background-radius: 10px; -fx-border-radius: 10^px;" AnchorPane.leftAnchor="201.0" AnchorPane.rightAnchor="199.0" AnchorPane.topAnchor="201.0" />
+                        <PasswordField fx:id="passwordInscriptionField" layoutX="201.0" layoutY="241.0" prefHeight="35.0" prefWidth="200.0" promptText="Mot de passe" style="-fx-background-radius: 10px;" AnchorPane.leftAnchor="201.0" AnchorPane.rightAnchor="199.0" AnchorPane.topAnchor="241.0" />
+                        <Button fx:id="submitButton" layoutX="212.0" layoutY="295.0" mnemonicParsing="false" onAction="#inscrire" prefHeight="27.0" prefWidth="176.0" style="-fx-background-color: #5e6b3b; -fx-background-radius: 10px;" text="S'inscrire" textFill="WHITE">
+                           <font>
+                              <Font name="System Bold" size="18.0" />
+                           </font>
+                        </Button>
+                        <Label layoutX="206.0" layoutY="14.0" prefHeight="51.0" prefWidth="190.0" text="Inscription" textFill="#5e6b3b">
+                           <font>
+                              <Font name="System Bold" size="35.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+   </top>
+</BorderPane>
