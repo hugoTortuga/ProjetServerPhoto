@@ -44,7 +44,7 @@ Nous avons conçu cette application en réalisant une analyse des besoins
 
 # Présentation de l'application 
 ***
-(Vidéo)
+(Cliquer sur la vidéo)
 [![Vidéo de présention](https://img.youtube.com/vi/43Cntxb5EN8/maxresdefault.jpg)](https://www.youtube.com/watch?v=43Cntxb5EN8&feature=youtu.be)
 
 # Fonctionnement de l'application
@@ -69,7 +69,7 @@ Lors de la mise en ligne d'une photo, celle-ci doit être importée en choisisan
 # Côté technique 
 ***
 ## Base de données
-(Vidéo)
+(Cliquer sur la vidéo)
 [![Vidéo BDD](https://img.youtube.com/vi/Lc_GPG0_r-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Lc_GPG0_r-0&feature=youtu.be)
 
 ## API
@@ -83,4 +83,6 @@ L'utilisation de mots de passe nous impose de hacher ces derniers. Le choix s'es
 # Suite éventuelle
 ***
 * Gérer un système de relation "Amis" entre utilisateur·rice·s
-* Recherche par tags
+* Système de recherche étendu à toute l'application
+* Gérer la connexion d'utilisateur·rice administrateur·rice et amélioration du panneau d'administration (affichage des statistiques de l'application : nombre de personnes connectées, de photos publiées)
+* Gérer la compression de l'image en stockant des tableaux de byte plutôt que des instance de photos
