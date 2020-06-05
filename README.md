@@ -85,4 +85,4 @@ L'utilisation de mots de passe nous impose de hacher ces derniers. Le choix s'es
 * Gérer un système de relation "Amis" entre utilisateur·rice·s
 * Système de recherche étendu à toute l'application
 * Gérer la connexion d'utilisateur·rice administrateur·rice et amélioration du panneau d'administration (affichage des statistiques de l'application : nombre de personnes connectées, de photos publiées)
-* Gérer la compression de l'image en stockant des tableaux de byte plutôt que des instance de photos
+* Gérer la compression de l'image en stockant des tableaux de byte plutôt que des instances de photos
